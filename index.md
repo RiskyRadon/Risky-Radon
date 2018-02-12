@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Risky Radon
+
+![Radon](http://oscac.com/wp-content/uploads/2015/04/radon.png)
 
 You can use the [editor on GitHub](https://github.com/RiskyRadon/Risky-Radon/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
